@@ -13,6 +13,9 @@ The name "Amakuru" means "Knowledge" in Kinyarwanda, reflecting the project's mi
 - Integration with roadmap.sh and Mosh Hamedani's resources.
 - Easy-to-use command: `amakuru start`.
 
+## How it works
+Amakuru is a simple CLI app that helps users explore tech careers. Run amakuru start to search for careers like "Data Analyst" and get curated resources from roadmap.sh. Thus, the app guides them step by step, supported with links to take up the journeys of their choice in tech.
+
 ## Prerequisites
 
 - Python 3.x installed on your system.
