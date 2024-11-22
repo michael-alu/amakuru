@@ -1,6 +1,6 @@
 # Amakuru - Empowering Women in Tech
 
-Amakuru is a simple Python-based menu-driven application that empowers women in tech by providing detailed career roadmaps for various tech paths. By leveraging data from roadmap.sh and Guides with Mosh Hamedani, Amakuru helps users discover the knowledge and career paths they need to succeed in the tech industry.
+Amakuru is a simple Python-based menu-driven application that empowers women in tech by providing detailed career roadmaps for various tech paths. By leveraging data from roadmap.sh and Guides with Mosh Hamedani, Amakuru helps users discover the knowledge and career paths they need to succeed in the tech industry.  
 
 ## Background
 
@@ -15,6 +15,7 @@ The name "Amakuru" means "Knowledge" in Kinyarwanda, reflecting the project's mi
 
 ## How it works
 Amakuru is a simple CLI app that helps users explore tech careers. Run amakuru start to search for careers like "Data Analyst" and get curated resources from roadmap.sh. Thus, the app guides them step by step, supported with links to take up the journeys of their choice in tech.
+
 
 ## Prerequisites
 
