@@ -4,7 +4,7 @@ Amakuru is a simple Python-based menu-driven application that empowers women in 
 
 ## Background
 
-The name "Amakuru" means "Knowledge" in Kinyarwanda, reflecting the project's mission to remain authentic and resonate with African roots. This tool serves as an empowering resource for women in tech, facilitating job creation and career growth.
+The name "Amakuru" means "Knowledge" in Kinyarwanda, reflecting the project's mission to remain authentic and resonate with African roots. This tool serves as an empowering resource for women in tech, facilitating job creation and career growth for women.
 
 ## Features
 

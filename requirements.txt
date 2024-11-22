@@ -1,0 +1,10 @@
+pdfkit
+jinja2
+selenium
+wkhtmltopdf
+sqlalchemy
+psycopg2
+python-dotenv
+setuptools 
+wheel 
+twine
