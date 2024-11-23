@@ -11,6 +11,8 @@ The name "Amakuru" means "Knowledge" in Kinyarwanda, reflecting the project's mi
 - Searches for career paths using regex-based matching.
 - Display relevant career roadmaps and provide links for further detailed guides.
 - Integration with roadmap.sh and Mosh Hamedani's resources.
+
+## Coming Soon
 - Easy-to-use command: `amakuru start`.
 
 ## How it works
