@@ -174,9 +174,34 @@ def welcome():
 
     db.populate_database()
 
-    user_input = input("\nPlease enter the career path you are interested in: ")
+    print("\nMain Menu")
 
-    search_career(user_input)
+    print("1. Show all Career paths available on Amakuru")
+    print("2. Get Amakuru roadmap")
+    print("3. Exit")
+
+    try:
+        choice = int(input("\nEnter your choice: "))
+
+        if choice == 1:
+            careers = db.get_careers("")
+
+            for i, career in enumerate(careers, start=1):
+                print(f"{i}. {career.name}")
+
+            print(f"{len(careers) + 1}. Exit")
+
+            handle_user_choice(careers)
+
+        if choice == 2:
+            user_input = input("\nPlease enter the career path you are interested in: ")
+
+            search_career(user_input)
+
+        if choice == 3:
+            return print("\nThank you for using Amakuru")
+    except ValueError:
+        return print("\nInvalid Choice")
 
 
 # def main():
